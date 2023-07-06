@@ -1,0 +1,4 @@
+tensorflow==2.12
+gudhi==3.8
+dionysus==2.0.9
+matplotlib==3.7.1
